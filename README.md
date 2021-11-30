@@ -3,4 +3,13 @@ Kernel Manager (kernelm) is an extension for Jupyter Notebook and Jupiter Lab. I
 
 ## Installation
 
+### Dependencies
+
 Coming soon...
+
+
+## Commands
+
+```terminal
+cd
+
