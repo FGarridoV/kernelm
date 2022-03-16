@@ -7,7 +7,8 @@ Kernel Manager (kernelm) is an extension for Jupyter Notebook and Jupiter Lab. I
 
 ### LINUX
 - Pyenv
-- C (sudo apt-get install build-essential)
+- C (sudo apt install build-essential)
+- sudo apt install     build-essential     curl     libbz2-dev     libffi-dev     liblzma-dev     libncursesw5-dev     libreadline-dev     libsqlite3-dev     libssl-dev     libxml2-dev     libxmlsec1-dev     llvm     make     tk-dev     wget     xz-utils     zlib1g-dev
 
 
 ## Commands
