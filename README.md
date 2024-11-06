@@ -33,6 +33,8 @@ kerm newenv 3.9.6 tester
 
 more coming soon...
 
+yaml file 
+```
 name: test1
 channels:
   - conda-forge
@@ -142,6 +144,4 @@ dependencies:
       - urllib3==2.2.3
       - widgetsnbextension==4.0.13
       - xyzservices==2024.9.0
-
-
-
+```
